@@ -1,6 +1,6 @@
 # Hi there! 👋  
 
-I'm **[Saeed]**, a **backend developer** specializing in **Node.js frameworks** like **Express**, **NestJS**, and more. I have a deep interest in **blockchain technology** and have worked on various projects in the Web3 space.
+I'm **Saeed**, a **backend developer** specializing in **Node.js frameworks** like **Express**, **NestJS**, and more. I have a deep interest in **blockchain technology** and have worked on various projects in the Web3 space.
 
 ## About Me 💻  
 - 🚀 Passionate about building scalable backend systems.  
