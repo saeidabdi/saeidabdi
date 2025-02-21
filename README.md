@@ -23,7 +23,7 @@ I'm **Saeed**, a **backend developer** specializing in **Node.js frameworks** li
   A decentralized event ticketing system with smart contract integration.
 
 ## GitHub Stats 📊  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saeidabdi&show_icons=true&theme=radical)  
 
 ## Let's Connect! 📬  
 - **Email:** saeedabdi.job@gmail.com  
