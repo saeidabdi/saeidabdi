@@ -28,7 +28,7 @@ I'm **Saeed**, a **backend developer** specializing in **Node.js frameworks** li
 ## Let's Connect! 📬  
 - **Email:** saeedabdi.job@gmail.com  
 <!-- - **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-profile)  -->
-- **Twitter:** [@code2web3](https://x.com/code2web3)  
+- **Twitter:** [@saeeed_abdi](https://x.com/saeeed_abdi)  
 
 ---
 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
